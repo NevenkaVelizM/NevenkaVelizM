@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👀 Repositorios
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-burger-queen&theme=radical "SCL019-burger-queen")](https://github.com/NevenkaVelizM/SCL019-burger-queen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-social-network&theme=highcontrast "SCL019-social-network")](https://github.com/NevenkaVelizM/SCL019-social-network )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-data-lovers&theme=gotham "SCL019-data-lovers")](https://github.com/NevenkaVelizM/SCL019-data-lovers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-card-validation&theme=midnight-purple "SCL019-card-validation")](https://github.com/NevenkaVelizM/SCL019-card-validation)
+
