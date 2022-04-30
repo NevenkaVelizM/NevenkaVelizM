@@ -1,7 +1,9 @@
-### Hi there 👋
+<h3 align="center">Hola👋, soy Nevenka</h3>
+<h5 align="center">
 
 <!--
 **NevenkaVelizM/NevenkaVelizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 ### 👀 Repositorios
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-burger-queen&theme=radical "SCL019-burger-queen")](https://github.com/NevenkaVelizM/SCL019-burger-queen)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NevenkaVelizM&repo=SCL019-social-network&theme=highcontrast "SCL019-social-network")](https://github.com/NevenkaVelizM/SCL019-social-network )
