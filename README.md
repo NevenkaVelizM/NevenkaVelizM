@@ -1,7 +1,11 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Nevenka</h1>
+
+<h1 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&color=6F8EE3&lines=Hola+%F0%9F%91%8B%2C+soy+Nevenka+)](https://git.io/typing-svg)
+</h1>
 
 <br/>
- 
+
 - 🌱 Actualmente estoy aprendiendo <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" style='width: 30px; height:30px'/> </a>
 <!--
 **NevenkaVelizM/NevenkaVelizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
