@@ -2,7 +2,7 @@
 
 <br/>
  
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" style='width: 30px; height:30px'/> </a>
 <!--
 **NevenkaVelizM/NevenkaVelizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
