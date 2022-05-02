@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 
 ### 🌐 Me puedes encontrar en:
 <a href = "https://www.linkedin.com/in/nevenka-v%C3%A9liz-morales-339409233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 50px; height:50px'/></a>
+<a href = "mailto:nvelizm@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" style='width: 50px; height:50px'/></a>
 
 
