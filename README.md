@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 Actualmente estoy aprendiendo <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+- 🌱 Actualmente estoy aprendiendo <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> para mi proyecto Burger-Queen en  <a href="https://github.com/laboratoria"><img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" width="30px"></a>
 <!--
 **NevenkaVelizM/NevenkaVelizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
