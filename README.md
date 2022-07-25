@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 Actualmente estoy aprendiendo <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> para mi proyecto Burger-Queen en  <a href="https://github.com/laboratoria"><img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" width="30px"></a>
+- 🌱 Actualmente estoy aprendiendo <img src="https://camo.githubusercontent.com/97daff1d80f13f7b5e38e41f00e01fe02526c7e5f068c540345f212adabaff8b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616e67756c61726a732e706e67" alt="angular" width="45" height="45"/> 
 <!--
 **NevenkaVelizM/NevenkaVelizM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  
  ### 🔨 Lenguajes y herramientas:
  <br/>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="45" src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"></code>
 <code><img height="45" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
